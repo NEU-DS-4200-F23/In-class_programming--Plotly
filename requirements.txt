@@ -1,5 +1,4 @@
 jupyterlab
-jupytext
 plotly
 numpy
 matplotlib
